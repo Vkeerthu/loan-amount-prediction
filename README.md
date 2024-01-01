@@ -1,6 +1,6 @@
 # loan-amount-prediction
 Loan amount prediction using machine learning can be approached as a regression problem, where you aim to predict a continuous numerical value (the loan amount) based on relevant features.
-Here's a general outline of how you can build a machine learning model for loan amount prediction:
+Here's a general outline of how you can build a machine-learning model for loan amount prediction:
 
 ## Data Collection:
 Gather a dataset that includes historical loan applications along with their corresponding loan amounts and other relevant features. These features may include borrower information (e.g., income, employment history), loan purpose, credit score, loan term, etc.
