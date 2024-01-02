@@ -29,7 +29,7 @@ Fine-tune the hyperparameters of your chosen model to optimize its performance. 
 ## Prediction:
 Once you have a trained and optimized model, you can use it to make loan amount predictions on new, unseen data. Provide the relevant input features for a loan application, and the model will generate a predicted loan amount.
 
-Remember that the performance and accuracy of your loan amount prediction model depend on the quality and representativeness of your dataset. It's also important to periodically update and retrain your model as new loan data becomes available to maintain its predictive power.
+Remember that the performance and accuracy of your loan amount prediction model depend on the quality and representativeness of your dataset. It's also important to periodically update and retrain your model as new loan data becomes available to maintain itS predictive power.
 
 Additionally, ensure compliance with relevant regulations and ethical considerations when using machine learning for loan amount prediction, as fair lending practices and non-discriminatory policies are crucial in the financial domain.
 
